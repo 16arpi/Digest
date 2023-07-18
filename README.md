@@ -1,6 +1,6 @@
 # Digest
 
-Programme orientée serveur proposant une synthèse quotidienne de l'actualité française. Cette synthèse repose sur la clusterisation de faits d'actualité obtenues à partir de flux rss.
+Programme orientée serveur proposant une synthèse quotidienne de l'actualité française. Cette synthèse repose sur la clusterisation de faits d'actualité obtenus à partir de flux rss.
 
 ## Roadmap
 
